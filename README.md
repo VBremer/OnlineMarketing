@@ -4,7 +4,7 @@ Investments in both paid and organic search are crucial for the today’s online
 ## Setting and other information
 
 * Clone this repository to your computer.
-* Install the R packages `bayesm` and `ROCR` by typing `install.packages("packageName")`.
+* R packages `bayesm` and `ROCR` required for execution of script.
 * Note that the provided data is no real world data. Because of confidential issues, it is not possible to provide real data; the data in this repository is therefore artifical.  
 * For more accurate results, adjust the burn-in period and number of MCMC iterations.
 
